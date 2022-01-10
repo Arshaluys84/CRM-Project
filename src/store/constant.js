@@ -133,7 +133,7 @@ export const CLIENT_LIST = [
         client: 'John',
         date: `${new Date().getFullYear()}-${new Date().getMonth() + 1}-${new Date().getDate()}`,
         product: 'mouse',
-        price: 5,
+        price: 15,
         quantity: 150,
         summary: 7 * 150,
         status: 'done',
