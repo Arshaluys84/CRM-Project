@@ -8,6 +8,7 @@ import Budget from "./pages/Budget";
 import './App.css';
 import Deals from "./pages/Deals";
 
+
 function App() {
     const [totalSalaryForCosts, setTotalSalaryForCosts] = useState(0)
     const [clientIncome, setClientIncome] = useState(0)
